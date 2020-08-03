@@ -5,7 +5,7 @@ var fs = require('fs');
 
 const vid_folder = "test2";
 var vid_path = "./videos/" + vid_folder;
-var video_url = "https://raw.githubusercontent.com/tony-ou/QoE_experiments_2/master/videos/" + vid_folder + "/";
+var video_url = "https://raw.githubusercontent.com/hyperpro/QoE_experiments_final/master/videos/" + vid_folder + "/";
 var best_quality = video_url + "1.mp4";
 var worst_quality = video_url + "2.mp4";
 
